@@ -1,2 +1,1 @@
-# dt019g_skeleton_repo
-
+Labs from my Cpp unviersity course, nothing special.
